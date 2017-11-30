@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcomeText">Welcome to Tic Tac Toe!</string>
+    <string name="playGameText">Play Game</string>
+
+    <string name="backClick">Back</string>
+    <string name="aboutGameText">About Game</string>
+    <string name="aboutGameDescription">Tic Tac Toe is a game in which one
+        player puts Xs and another player (android in this case) puts Os inside a set of nine
+        squares. Each player tries to be the first to fill a row of squares with either Xs or Os!
+    The first player to fill the row wins! Good luck!</string>
+
+    <string name="restart">Play again</string>
+
+
+</resources>

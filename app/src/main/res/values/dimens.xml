@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcomeTextSize">24sp</dimen>
+    <dimen name="actionBarTextSize">32sp</dimen>
+    <dimen name="descriptionTextSize">20sp</dimen>
+    <dimen name="winnerText">50sp</dimen>
+</resources>
